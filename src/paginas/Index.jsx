@@ -1,12 +1,12 @@
 import RazasGatos from "../componentes/componentes";
-import persa from './imagenes/persa.jpg';
-import bengala from './imagenes/bengala.jpg';
-import British from './imagenes/BritishShorthair.jpg';
-import MaineCoon from './imagenes/MaineCoon.jpg';
-import siames from './imagenes/siamés.jpg';
-import esfinge from './imagenes/esfinge.jpg';
+import persa from '../imagenes/persa.jpg';
+import bengala from '../imagenes/bengala.jpg';
+import British from '../imagenes/BritishShorthair.jpg';
+import MaineCoon from '../imagenes/MaineCoon.jpg';
+import siames from '../imagenes/siamés.jpg';
+import esfinge from '../imagenes/esfinge.jpg';
 
-function index(){
+function Index(props){
     return   (
    
 <div>
@@ -56,4 +56,4 @@ function index(){
       );
 }
 
-export default index;
+export default Index;

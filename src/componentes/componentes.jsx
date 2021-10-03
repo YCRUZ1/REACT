@@ -7,7 +7,7 @@ function RazasGatos({nombreRaza, imagen}){
     <span className="SubtitulosOrganizado">{nombreRaza}</span>
     </li> 
       
-    )
+    );
   }
 
   export default RazasGatos;
